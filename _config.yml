@@ -1,0 +1,12 @@
+google_analytics: #
+
+header_pages:
+ - index.md
+ - about.md
+
+footer: 'follow me on <a href="https://twitter.com/aezlox">twitter</a>'
+
+style: default
+
+plugins:
+  - jekyll-seo-tag
